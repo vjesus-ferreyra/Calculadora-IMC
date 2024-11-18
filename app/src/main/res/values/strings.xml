@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="title">Calculadora de Indice de Masa Corporal</string>
+    <string name="weight">Peso (Kg)</string>
+    <string name="weight_edittext_help">Inserte su peso aqui</string>
+    <string name="height">Estatura</string>
+    <string name="height_value_defect">1.20 m</string>
+    <string name="height_description">Inserta tu estatura aquí</string>
+    <string name="btn_imc_calculator">Calcular tu IMC</string>
+    <string name="status_example">Sin datos</string>
+    <string name="imc_example">IMC sin datos</string>
+    <string name="tst_message">Inserta tu peso 😁</string>
+</resources>
